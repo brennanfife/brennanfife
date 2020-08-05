@@ -1,6 +1,6 @@
 # We can now set profile READMEs? We'll I surely didn't know about this...
 
-<div style="text-align:center">
+<div align="center">
   <img src="https://media.giphy.com/media/XekTOUyS18NMhIJl4d/giphy.gif" alt='Cat Inside Plane GIF' />
 </div>
 
