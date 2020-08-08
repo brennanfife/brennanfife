@@ -23,7 +23,7 @@
 [javascript]: https://www.javascript.com/
 [react]: https://reactjs.org/
 [emotion]: https://emotion.sh/docs/introduction
-[chakra](https://chakra-ui.com/)
+[chakra]: (https://chakra-ui.com/)
 [next]: https://nextjs.org/
 [gatsby]: https://www.gatsbyjs.org/
 [apollo]: https://www.apollographql.com/
