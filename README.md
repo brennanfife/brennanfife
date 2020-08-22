@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/XekTOUyS18NMhIJl4d/giphy.gif" alt='Cat Inside Plane GIF' />
 </div>
 
-## By the way, hello 👋, my name is Brennan, I'm a Frontend / Web3 Developer, and you've stumbled across my GitHub profile
+## By the way, hello 👋, my name is Brennan, I'm a Frontend / Web3 Developer and you've stumbled across my GitHub profile
 
 ## What I currently like to build with...
 
