@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/XekTOUyS18NMhIJl4d/giphy.gif" alt='Cat Inside Plane GIF' />
 </div>
 
-## By the way, hello 👋, my name is Brennan, I'm a Frontend / Web3 Developer and you've stumbled across my GitHub profile
+## Hello 👋, my name is Brennan, I'm a Frontend / Web3 Developer and you've stumbled across my GitHub profile
 
-## What I currently like to build with...
+## My go-to stack consists of...
 
 [<img align="left" alt="TypeScript" width="26px" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" />][typescript]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
