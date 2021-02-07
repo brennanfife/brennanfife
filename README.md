@@ -9,14 +9,15 @@
 [<img align="left" alt="TypeScript" width="30px" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" />][typescript]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Go" width="36px" src="https://miro.medium.com/max/1200/1*i2skbfmDsHayHhqPfwt6pA.png" />][Go]
-[<img align="left" alt="Emotion" width="24px" src="https://emotion.sh/static/a76dfa0d18a0536af9e917cdb8f873b9/253d2/emotion.webp" />][emotion]
-[<img align="left" alt="Chakra" width="90px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/master/logo/logo-colored%402x.png" />][chakra]
-[<img align="left" alt="Next.js" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />][next]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][gatsby]
-[<img align="left" alt="Apollo" width="44px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/landscape/apollo-seeklogo.com_%281%29.png" />][apollo]
-[<img align="left" alt="Ethereum / Solidity" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/368px-Ethereum_logo_2014.svg.png" />][ethereum]
-[<img align="left" alt="Ethers.js" width="36px" src="https://ethereum.consensys.net/hs-fs/hubfs/ethers(dot)js.jpeg?width=259&name=ethers(dot)js.jpeg" />][ethers.js]
+[<img align="left" alt="Go" width="40px" src="https://miro.medium.com/max/1200/1*i2skbfmDsHayHhqPfwt6pA.png" />][Go]
+[<img align="left" alt="Emotion" width="30px" src="https://emotion.sh/static/a76dfa0d18a0536af9e917cdb8f873b9/253d2/emotion.webp" />][emotion]
+[<img align="left" alt="Chakra" width="100px" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/master/logo/logo-colored%402x.png" />][chakra]
+[<img align="left" alt="Next.js" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />][next]
+[<img align="left" alt="Gatsby" width="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][gatsby]
+[<img align="left" alt="Apollo" width="50px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/landscape/apollo-seeklogo.com_%281%29.png" />][apollo]
+[<img align="left" alt="Ethers.js" width="40px" src="https://ethereum.consensys.net/hs-fs/hubfs/ethers(dot)js.jpeg?width=259&name=ethers(dot)js.jpeg" />][ethers.js]
+[<img align="left" alt="Ethereum / Solidity" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/368px-Ethereum_logo_2014.svg.png" />][ethereum]
+
 
 
 [typescript]: https://www.typescriptlang.org/
